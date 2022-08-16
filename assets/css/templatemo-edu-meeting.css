@@ -1098,7 +1098,7 @@ section.upcoming-meetings .categories .main-button-red a {
 }
 
 .meeting-item .down-content {
-  background-color: #fff;
+  background-color: rgb(2, 85, 113);
   padding: 30px;
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -1260,7 +1260,7 @@ section.our-courses {
   font-size: 18px;
   color: #1f272b;
   text-align: center;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #3CF;
 }
 
 .our-courses .item .down-content .info {
@@ -1579,7 +1579,7 @@ section.contact-us .right-info ul li span {
 .footer p {
   text-transform: uppercase;
   font-size: 14px;
-  color: #fff;
+  color: rgb(97, 51, 51);
   text-align: center;
 }
 
@@ -1731,7 +1731,7 @@ section.meetings-page .pagination ul li a:hover {
 }
 
 .meeting-single-item .down-content {
-  background-color: #fff;
+  background-color: #3CF;
   padding: 40px;
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -1787,16 +1787,16 @@ section.meetings-page .pagination ul li a:hover {
 .meeting-single-item .down-content p.description {
   margin-top: 40px;
   padding-top: 40px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #3CF;
   margin-bottom: 40px;
   padding-bottom: 40px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #3CF;
 }
 
 .meeting-single-item .down-content .share {
   margin-top: 40px;
   padding-top: 40px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #3CF;
 }
 
 .meeting-single-item .down-content .share h5 {
@@ -1979,5 +1979,118 @@ responsive
   .header-area .main-nav .nav li ul.sub-menu li a {
     color: #1f272b;
   }
+  
 
+}
+.div{
+  padding: 22px;
+  font-size: 17px;
+  text-align: justify;
+  
+}
+.why{
+  color: #a12c2f;
+  text-align: center;
+  padding: 25px;
+}
+.sha{
+  text-align: center;
+  
+}
+
+fieldset {
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+legend {
+  padding: 0px 3px;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+label {
+  width: 110px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 6px;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
+  color: #f00;
+}
+
+input:focus {
+  background: #eaeaea;
+}
+
+input,
+textarea {
+  width: 249px;
+}
+
+textarea {
+  height: 100px;
+}
+
+select {
+  width: 254px;
+}
+
+input[type=checkbox] {
+  width: 10px;
+}
+
+input[type=submit] {
+  width: 150px;
+  padding: 10px;
+}
+.tac{
+  background: #7a7a7a;
+  padding: 15px;
+}
+.services {
+  margin-top: 40px;
+  background: #7a7a7a;
+  text-align: center;
+}
+
+.service-item img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.service-item .down-content {
+  background-color: #f7f7f7;
+  padding: 30px;
+}
+
+.service-item .down-content h2 {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.25px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.service-item .down-content p {
+  margin-bottom: 20px;
+}
+.php{
+  padding: 40px;
+    margin: 80px;
+    position: relative;
+    overflow: hidden;
+    background: #ffffff;
+    box-shadow: 0 0 2px 0;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+    z-index: 1;
+    height: 480px;
+    width: 380px;
+}
+.em{
+  color: #3CF;
 }
