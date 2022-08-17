@@ -2094,3 +2094,54 @@ input[type=submit] {
 .em{
   color: #3CF;
 }
+.jus{
+    padding: 40px;
+    margin: 80px;
+    position: relative;
+    overflow: hidden;
+    background: #ffffff;
+    box-shadow: 0 0 2px 0;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+    z-index: 1;
+    height: 3500px;
+    width: 1300px;
+}
+.ex{
+  border: 35px;
+  height: 60px;
+  width: 1200px;
+  background: darkgoldenrod;
+  text-align: center;
+  font-size: 22px;
+  padding: 7px;
+  color: #eee;
+  
+}
+.exe {
+  border: 35px;
+  height: 60px;
+  width: 1200px;
+  background: darkgoldenrod;
+  text-align: left;
+  font-size: 22px;
+  padding: 7px;
+  color: #eee;
+
+}
+.js{
+  
+  height: 60px;
+  width: 1200px;
+  background: #a12c2f;
+  text-align: center;
+  font-size: 22px;
+  border: 35px;
+  padding: 7px;
+  color: #eee;
+}
+.form-check{
+  font-family: 'Times New Roman';
+  font-size: 19px;
+}
+
