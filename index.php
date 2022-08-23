@@ -94,17 +94,13 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
-    <img src="assets/images/6.jpeg" alt="">
+    <img src="assets/images/BACKGROUND.jpg" alt="">
 
     <div class="video-overlay header-text">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="caption">
-
-              <h2>DRC SOCIAL INNOVATION SUMMIT(DRC-SIS).</h2>
-              <hr>
-            </div>
+           
           </div>
         </div>
       </div>
