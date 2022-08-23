@@ -43,16 +43,12 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="col-lg-4 col-sm-4">
                     <div class="right-icons">
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            
+
+                            <h5>28-29 November 2022</h5>
+                            <h5>DRC-Kinshasa, Fleuve congo Hotel </h5>
                         </ul>
-                        <div class="sha">
-                            <select class="form-select">
-                                <option><a href="/fr">EN</a></option>
-                                <option><a href="/en">FR</a></option>
-                            </select>
-                        </div>
+
+
                     </div>
                 </div>
             </div>
@@ -67,22 +63,20 @@ https://templatemo.com/tm-569-edu-meeting
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="index.php" class="logo">
-                            <img height="94px" src="assets/images/Logo DRC-SIS.png" alt="">
+
+                            <img height="94px" src="assets/images/drc isi logo site.png" alt="">
+
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
-                            <li><a href="drcsocial.php">DRC Social Innovation Summit 1 </a></li>
-                            <li class="has-sub">
-                                <a href="javascript:void(0)"> NETWORK</a>
-                                <ul class="sub-menu">
-                                    <li><a href="network.html">NETWORK DRC-SIS</a></li>
-                                    <li><a href="project.html">SUPPORTED PROJECT</a></li>
-                                    <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
-                                </ul>
-                            </li>
-                            <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+
+                            <li><a href="aboutdrc.php">HISTORY</a></li>
+                            <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
+                            <li><a href="registerychoose.php">REGISTER</a></li>
+                            <li><a href="parteners.php">Parteners</a></li>
+                            <li><a href="speakers.html">SPEAKERS</a></li>
+                            <li><a href="#contact">Contact Us/DOWLOADS</a></li>
 
                         </ul>
                         <a class='menu-trigger'>
@@ -94,6 +88,7 @@ https://templatemo.com/tm-569-edu-meeting
             </div>
         </div>
     </header>
+
     <!-- ***** Header Area End ***** -->
 
     <!-- ***** Main Banner Area Start ***** -->
@@ -107,7 +102,7 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="video-overlay header-text">
             <div class="container">
                 <div class="row">
-                    
+
                 </div>
             </div>
         </div>

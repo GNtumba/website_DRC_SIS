@@ -62,7 +62,7 @@ https://templatemo.com/tm-569-edu-meeting
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.php" class="logo">
-              <img height="94px" src="assets/images/Logo DRC-SIS.png" alt="">
+              <img height="94px" src="assets/images/drc isi logo site.png" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->

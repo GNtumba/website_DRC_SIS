@@ -154,12 +154,12 @@ body {
 
 a {
   text-decoration: none !important;
-  color: #3CF;
+  color: #165a95;
   text-align: center;
 }
 
 a:hover {
-  color: rgb(241, 195, 57);
+  color: #e5e12f(241, 195, 57);
 }
 
 h1,
@@ -282,7 +282,7 @@ body {
   font-size: 22px;
   font-weight: 900;
   text-transform: uppercase;
-  color: #3B566E;
+  color: #165a95;
   
 }
 
@@ -294,7 +294,7 @@ header
 */
 
 .sub-header {
-  background-color: #fff;
+  background-color: #165a95;
   position: relative;
   z-index: 1111;
 }
@@ -308,7 +308,7 @@ header
 .sub-header .right-icons {
   text-align: right;
   padding: 8px 0px;
-  color: #a12c2f;
+  color: #165a95;
 }
 
 .sub-header .right-icons ul li {
@@ -317,7 +317,7 @@ header
 }
 
 .sub-header .right-icons ul li a {
-  color: blue;
+  color: #165a95;
   font-size: 14px;
   transition: all .3s;
 }
@@ -359,7 +359,7 @@ header
 }
 
 .header-area {
-  background-color: #3B566E;
+  background-color: #eee;
   position: absolute;
   top: 40px;
   left: 0;
@@ -378,7 +378,6 @@ header
 
 .header-area .main-nav .logo {
   line-height: 100px;
-  color: #fff;
   font-size: 25px;
   font-weight: 700;
   text-transform: uppercase;
@@ -426,7 +425,7 @@ header
   font-weight: 500;
   font-size: 14px;
   text-transform: uppercase;
-  color: #fff;
+  color: #165a95;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -439,7 +438,7 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #a12c2f !important;
+  color: #e5e12f !important;
 }
 
 .background-header .main-nav .nav li:hover a,
@@ -1041,7 +1040,7 @@ section.upcoming-meetings .categories {
 section.upcoming-meetings .categories h4 {
   font-size: 13px;
   font-weight: 600;
-  color: #1f272b;
+  color: #eee;
   margin-bottom: 30px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
@@ -1055,7 +1054,7 @@ section.upcoming-meetings .categories ul li {
 
 section.upcoming-meetings .categories ul li a {
   font-size: 15px;
-  color: #1f272b;
+  color: #eee;
   font-weight: 500;
   transition: all .3s;
 }
@@ -1686,7 +1685,7 @@ section.meetings-page .pagination ul li a {
   height: 40px;
   background-color: #fff;
   border-radius: 10px;
-  color: #1f272b;
+  color: #eee;
   display: inline-block;
   text-align: center;
   line-height: 40px;

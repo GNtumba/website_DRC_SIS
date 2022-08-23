@@ -62,7 +62,7 @@ https://templatemo.com/tm-569-edu-meeting
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.php" class="logo">
-              <img height="94px" src="assets/images/Logo DRC-SIS.png" alt="">
+              <img height="94px" src="assets/images/drc isi logo site.png" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -70,8 +70,8 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="aboutdrc.php">HISTORY</a></li>
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
-              <li><a href="parteners.html">Parteners</a></li>
-              <li><a href="#contact">SPEAKERS</a></li>
+              <li><a href="parteners.php">Parteners</a></li>
+              <li><a href="speakers.html">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us/DOWLOADS</a></li>
             </ul>
             <a class='menu-trigger'>
@@ -91,6 +91,46 @@ https://templatemo.com/tm-569-edu-meeting
       <div class="row">
         <div class="col-lg-24">
           <div class="section-heading">
+            <h2> strategics Parteners</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="meeting-item">
+              <div class="thumb">
+                <img src="assets/images/academy 375.jpg" alt="New Lecturer Meeting">
+              </div>
+
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="meeting-item">
+              <div class="thumb">
+                <img src="assets/images/Tangaza.jpg" alt="Online Teaching">
+              </div>
+
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="meeting-item">
+              <div class="thumb">
+                <img src="assets/images/PADPMAE.jpeg" alt="Higher Education">
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    </div>
+    </div>
+  </section>
+  <section class="upcoming-meetings" id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-24">
+          <div class="section-heading">
             <h2>Parteners strategics</h2>
           </div>
         </div>
@@ -99,26 +139,25 @@ https://templatemo.com/tm-569-edu-meeting
             <div class="meeting-item">
               <div class="thumb">
 
-                <a href="meeting-details.html"><img src="assets/images/academy 375.jpg" alt="New Lecturer Meeting"></a>
+                <a href="agromwinda.html"><img src="assets/images/academy 375.jpg" alt="New Lecturer Meeting"></a>
               </div>
-              
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <div class="meeting-item">
-              <div class="thumb">
 
-                <a href="meeting-details.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a>
-              </div>
-              
             </div>
           </div>
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
-                <a href="meeting-details.html"><img src="assets/images/PADPMAE.jpeg" alt="Higher Education"></a>
+                <a href="ist.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a>
               </div>
-              
+
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="meeting-item">
+              <div class="thumb">
+                <a href="padpme.html"><img src="assets/images/PADPMAE.jpeg" alt="Higher Education"></a>
+              </div>
+
             </div>
           </div>
 

@@ -35,7 +35,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
-                        <img height="94px" src="assets/images/Logo DRC-SIS.png" alt="">
+                        <img height="94px" src="assets/images/drc isi logo site.png" alt="">
                     </a>
 </header><br>
 
@@ -68,8 +68,8 @@ https://templatemo.com/tm-569-edu-meeting
         </select><br>
         <br>
         <h5>NOTE: you must be a paying member of the African Agri Council to get the member rate</h5><br>
-        <h6>To become a member of the African Agri Council go to <a href="www.agricouncil.org">www.agricouncil.org</a> to find out more. If you are already a member
-            take advantage of our 20% discounted rates for all our conferences, to exhibit, to sponsor and much more.</h6>
+        <h6>To become a member of the DRC-SIS go to <a href="www.agricouncil.org">www.agricouncil.org</a> to find out more. If you are already a member
+            take advantage of our 30% discounted rates for all our conferences, to exhibit, to sponsor and much more.</h6>
         <input name="mail" type="text" placeholder="Adresse e-mail"><br><br>
         <input name="nomCompagnie" type="text" placeholder="Company"><br><br>
         <input name="siteWebCompagnie" type="text" placeholder="Company website"><br><br>
@@ -325,7 +325,7 @@ https://templatemo.com/tm-569-edu-meeting
             <option value="Zambia">Zambia (ZM)</option>
             <option value="Zimbabwe">Zimbabwe (ZW)</option>
         </select><br><br>
-        
+
         <h5>What is your company's primary nature of business?</h5><br>
         <select name="natureCompagnie" type="radio" placeholder="NatureCompagnie">
             <option value="option1" selected>Academics, Training and Research</option>
