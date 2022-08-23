@@ -43,6 +43,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="col-lg-4 col-sm-4">
                     <div class="right-icons">
                         <ul>
+
                             <h5>28-29 November 2022</h5>
                             <h5>DRC-Kinshasa, Fleuve congo Hotel </h5>
                         </ul>
@@ -62,17 +63,21 @@ https://templatemo.com/tm-569-edu-meeting
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="index.php" class="logo">
+
                             <img height="94px" src="assets/images/drc isi logo site.png" alt="">
+
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
+
                             <li><a href="aboutdrc.php">HISTORY</a></li>
                             <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
                             <li><a href="registerychoose.php">REGISTER</a></li>
                             <li><a href="parteners.php">Parteners</a></li>
                             <li><a href="speakers.html">SPEAKERS</a></li>
                             <li><a href="#contact">Contact Us/DOWLOADS</a></li>
+
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
