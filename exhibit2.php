@@ -35,7 +35,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
-                        <img height="94px" src="assets/images/Logo DRC-SIS.png" alt="">
+                        <img height="94px" src="assets/images/drc isi logo site.png" alt="">
                     </a>
 </header><br>
 
@@ -325,7 +325,7 @@ https://templatemo.com/tm-569-edu-meeting
             <option value="Zambia">Zambia (ZM)</option>
             <option value="Zimbabwe">Zimbabwe (ZW)</option>
         </select><br><br>
-        
+
         <h5>What is your company's primary nature of business?</h5><br>
         <select name="natureCompagnie" type="radio" placeholder="NatureCompagnie">
             <option value="option1" selected>Academics, Training and Research</option>
