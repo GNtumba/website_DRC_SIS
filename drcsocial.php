@@ -46,8 +46,8 @@ https://templatemo.com/tm-569-edu-meeting
               <h6>28-29 November 2022</h6>
               <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
             </ul>
-            
-            
+
+
           </div>
         </div>
       </div>
@@ -72,7 +72,8 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="registerychoose.php">REGISTER</a></li>
               <li><a href="parteners.php">Parteners</a></li>
               <li><a href="speakers.html">SPEAKERS</a></li>
-              <li><a href="#contact">Contact Us/DOWLOADS</a></li>
+              <li><a href="#contact">Contact Us/</a></li>
+              <li><a href="#">DOWLOADS/BROCHURE</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -94,7 +95,7 @@ https://templatemo.com/tm-569-edu-meeting
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            
+
           </div>
         </div>
       </div>
@@ -103,87 +104,85 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area End ***** -->
   <!-- ***** Main Banner Area End ***** -->
 
-  
+
   </section>
 
-  
-  
-    <section class="contact-us" id="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-9 align-self-center">
-            <div class="row">
-              <div class="col-lg-12">
-                <form id="contact" action="#" method="post">
-                  <div class="row">
-                    <div class="col-lg-12">
-                      <h2>Contact us</h2>
-                    </div>
-                    <div class="col-lg-4">
-                      <fieldset>
-                        <input name="name" type="text" id="name" placeholder="Your name...*" required="">
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-4">
-                      <fieldset>
-                        <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your email..."
-                          required="">
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-4">
-                      <fieldset>
-                        <input name="subject" type="text" id="subject" placeholder="Subject...*" required="">
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-12">
-                      <fieldset>
-                        <textarea name="message" type="text" class="form-control" id="message" placeholder="Your message..."
-                          required=""></textarea>
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-12">
-                      <fieldset>
-                        <button name="create" type="submit" id="form-submit" class="button">Send message now</button>
-                      </fieldset>
-                    </div>
+
+
+  <section class="contact-us" id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-9 align-self-center">
+          <div class="row">
+            <div class="col-lg-12">
+              <form id="contact" action="#" method="post">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <h2>Contact us</h2>
                   </div>
-                </form>
-                <?php
-                  include('classes/Contact.class.php');
-                  $contact = new Contact;
-                  if (isset($_POST['create'])) {
-                    $contact->create($_POST['name'], $_POST['email'], $_POST['subject'], $_POST['message']);
-                  }
-                ?>
-                  
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <div class="right-info">
-              <ul>
-                <li>
-                  <h6>Phone Number</h6>
-                  <span>+243810780378</span>
-                </li>
-                <li>
-                  <h6>Email Address</h6>
-                  <a href=""><span>communicationdrcsis@gmail.com</span></a>
-                </li>
-                <li>
-                  <h6>Street Address</h6>
-                  <span>Democratic Republic of Congo , 15 A.v Bandoma,Q/GB, Kinshasa</span>
-                </li>
-                <li>
-                  <h6>Website URL</h6>
-                  <span>www.drcsis.com</span>
-                </li>
-              </ul>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="name" type="text" id="name" placeholder="Your name...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your email..." required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="subject" type="text" id="subject" placeholder="Subject...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button name="create" type="submit" id="form-submit" class="button">Send message now</button>
+                    </fieldset>
+                  </div>
+                </div>
+              </form>
+              <?php
+              include('classes/Contact.class.php');
+              $contact = new Contact;
+              if (isset($_POST['create'])) {
+                $contact->create($_POST['name'], $_POST['email'], $_POST['subject'], $_POST['message']);
+              }
+              ?>
+
             </div>
           </div>
         </div>
+        <div class="col-lg-3">
+          <div class="right-info">
+            <ul>
+              <li>
+                <h6>Phone Number</h6>
+                <span>+243810780378</span>
+              </li>
+              <li>
+                <h6>Email Address</h6>
+                <a href=""><span>communicationdrcsis@gmail.com</span></a>
+              </li>
+              <li>
+                <h6>Street Address</h6>
+                <span>Democratic Republic of Congo , 15 A.v Bandoma,Q/GB, Kinshasa</span>
+              </li>
+              <li>
+                <h6>Website URL</h6>
+                <span>www.drcsis.com</span>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
-    </section>
+    </div>
+  </section>
   <div class="footer">
     <p> © DRCSIS. All Rights Reserved.
 
