@@ -68,7 +68,7 @@ https://templatemo.com/tm-569-edu-meeting
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
+              <li class=""><a href="#meetings">ABOUT US</a></li>
               <li><a href="drcsocial.php">DRC Social Innovation Summit 1 </a></li>
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
@@ -78,7 +78,7 @@ https://templatemo.com/tm-569-edu-meeting
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
               </li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class=""><a href="#contact">Contact Us</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
