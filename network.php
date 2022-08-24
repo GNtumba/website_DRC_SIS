@@ -41,14 +41,7 @@ https://templatemo.com/tm-569-edu-meeting
           
         </div>
         <div class="col-lg-4 col-sm-4">
-          <div class="right-icons">
-            <ul>
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            </ul>
-          </div>
+          
         </div>
       </div>
     </div>
@@ -82,7 +75,7 @@ https://templatemo.com/tm-569-edu-meeting
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
                 <ul class="sub-menu">
-                  <li><a href="network.html">NETWORK DRC-SIS</a></li>
+                  <li><a href="network.php">NETWORK DRC-SIS</a></li>
                   <li><a href="project.html">SUPPORTED PROJECT</a></li>
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
@@ -116,7 +109,81 @@ https://templatemo.com/tm-569-edu-meeting
     <a href="membredrc.html"><button class="btn btn-primary" type="submit">IN DRC</button></a>
     <a href="memberafric.html"><button class="btn btn-primary" type="submit">IN AFRIC</button></a>
   </div> <br><br>
-  
+  <section class="contact-us" id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-9 align-self-center">
+          <div class="row">
+            <div class="col-lg-12">
+              <form id="contact" action="#" method="post">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <h2>Let's get in touch</h2>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="name" type="text" id="name" placeholder="Your name...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your email..."
+                        required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="subject" type="text" id="subject" placeholder="Subject...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Your message..."
+                        required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button name="create" type="submit" id="form-submit" class="button">Send message now</button>
+                    </fieldset>
+                  </div>
+                </div>
+              </form>
+              <?php
+                include('classes/Contact.class.php');
+                $contact = new Contact;
+                if (isset($_POST['create'])) {
+                  $contact->create($_POST['name'], $_POST['email'], $_POST['subject'], $_POST['message']);
+                }
+                ?>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="right-info">
+            <ul>
+              <li>
+                <h6>Phone Number</h6>
+                <span>+243822931202</span>
+              </li>
+              <li>
+                <h6>Email Address</h6>
+                <a href=""><span>communicationdrcsis@gmail.com</span></a>
+              </li>
+              <li>
+                <h6>Street Address</h6>
+                <span>Democratic Republic of Congo , 15 A.v Bandoma,Q/GB, Kinshasa</span>
+              </li>
+              <li>
+                <h6>Website URL</h6>
+                <span>www.drcsis.com</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   
   <div class="footer">
     <p> © DRCSIS. All Rights Reserved.

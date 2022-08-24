@@ -43,8 +43,8 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
-              <h5>28-29 November 2022</h5>
-              <h5>DRC-Kinshasa, Fleuve congo Hotel </h5>
+              <h6>28-29 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
             </ul>
             
             
@@ -94,10 +94,7 @@ https://templatemo.com/tm-569-edu-meeting
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="caption">
-              <h2>"Theme:UNLEASHING SOCIAL INNOVATION FOR THE SOCIAL TRANSFORMATION OF DRC"</h2>
-              <hr>
-            </div>
+            
           </div>
         </div>
       </div>
@@ -120,7 +117,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <form id="contact" action="#" method="post">
                   <div class="row">
                     <div class="col-lg-12">
-                      <h2>Let's get in touch</h2>
+                      <h2>Contact us</h2>
                     </div>
                     <div class="col-lg-4">
                       <fieldset>
@@ -167,7 +164,7 @@ https://templatemo.com/tm-569-edu-meeting
               <ul>
                 <li>
                   <h6>Phone Number</h6>
-                  <span>+243822931202</span>
+                  <span>+243810780378</span>
                 </li>
                 <li>
                   <h6>Email Address</h6>
@@ -188,7 +185,7 @@ https://templatemo.com/tm-569-edu-meeting
       </div>
     </section>
   <div class="footer">
-    <p>Copyright © DRCSIS. All Rights Reserved.
+    <p> © DRCSIS. All Rights Reserved.
 
   </div>
 

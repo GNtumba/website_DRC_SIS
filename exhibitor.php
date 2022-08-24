@@ -45,7 +45,7 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="js">
             <h4>Exhibitor/Sponsorship Enquiry</h4>
         </div><br>
-        <h6><i>Please complete the form below to request information about exhibiting at or sponsoring the African DRC-SIS</h6><br>
+        <h6><i>Please complete the form below to request information about exhibiting at or sponsoring the DRC-SIS</h6><br>
         <div class="exe">
             <h6>What information are you looking for?</h6>
         </div><br>
@@ -700,7 +700,10 @@ https://templatemo.com/tm-569-edu-meeting
 </div>
 
 </body>
+<div class="footer">
+    <p> © DRCSIS. All Rights Reserved.
 
+</div>
 
 
 <!-- Scripts -->
