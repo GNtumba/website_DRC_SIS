@@ -44,7 +44,15 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="right-icons">
             <ul>
               <h6>28-29 November 2022</h6>
+<<<<<<< HEAD
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
             </ul>
 
 

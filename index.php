@@ -44,7 +44,15 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="right-icons">
             <ul>
               <h6>28-29 November 2022</h6>
+<<<<<<< HEAD
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
             </ul>
           </div>
         </div>
@@ -66,8 +74,19 @@ https://templatemo.com/tm-569-edu-meeting
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
+<<<<<<< HEAD
               <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
               <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+              <li class=""><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 1 </a></li>
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
                 <ul class="sub-menu">
@@ -76,7 +95,7 @@ https://templatemo.com/tm-569-edu-meeting
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
               </li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class=""><a href="#contact">Contact Us</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
