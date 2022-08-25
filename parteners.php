@@ -43,8 +43,8 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
-              <h5>28-29 November 2022</h5>
-              <h5>DRC-Kinshasa, Fleuve congo Hotel </h5>
+              <h6>28-29 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
             </ul>
 
 
@@ -71,8 +71,9 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
               <li><a href="parteners.php">Parteners</a></li>
-              <li><a href="speakers.html">SPEAKERS</a></li>
-              <li><a href="#contact">Contact Us/DOWLOADS</a></li>
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+              <li><a href="#">DOWLOADS/Brochure</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -91,7 +92,7 @@ https://templatemo.com/tm-569-edu-meeting
       <div class="row">
         <div class="col-lg-24">
           <div class="section-heading">
-            <h2> strategics Parteners</h2>
+            <h2> strategic Partners</h2>
           </div>
         </div>
         <div class="row">
@@ -126,47 +127,7 @@ https://templatemo.com/tm-569-edu-meeting
     </div>
     </div>
   </section>
-  <section class="upcoming-meetings" id="services">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-24">
-          <div class="section-heading">
-            <h2>Parteners strategics</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-3">
-            <div class="meeting-item">
-              <div class="thumb">
 
-                <a href="agromwinda.html"><img src="assets/images/academy 375.jpg" alt="New Lecturer Meeting"></a>
-              </div>
-
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <div class="meeting-item">
-              <div class="thumb">
-                <a href="ist.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a>
-              </div>
-
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <div class="meeting-item">
-              <div class="thumb">
-                <a href="padpme.html"><img src="assets/images/PADPMAE.jpeg" alt="Higher Education"></a>
-              </div>
-
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-    </div>
-    </div>
-  </section>
   <section class="contact-us" id="contact">
     <div class="container">
       <div class="row">
@@ -176,7 +137,7 @@ https://templatemo.com/tm-569-edu-meeting
               <form id="contact" action="#" method="post">
                 <div class="row">
                   <div class="col-lg-12">
-                    <h2>Let's get in touch</h2>
+                    <h2>Contact us</h2>
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
@@ -220,7 +181,7 @@ https://templatemo.com/tm-569-edu-meeting
             <ul>
               <li>
                 <h6>Phone Number</h6>
-                <span>+243822931202</span>
+                <span>+243810780378</span>
               </li>
               <li>
                 <h6>Email Address</h6>
@@ -241,7 +202,7 @@ https://templatemo.com/tm-569-edu-meeting
     </div>
   </section>
   <div class="footer">
-    <p>Copyright © DRCSIS. All Rights Reserved.
+    <p> © DRCSIS. All Rights Reserved.
 
   </div>
 

@@ -83,8 +83,6 @@ dl,
 dt,
 dd,
 ol,
-ul,
-li,
 figure,
 header,
 nav,
@@ -122,9 +120,9 @@ html[xmlns] .clearfix {
 
 ul,
 li {
-  padding: 0;
-  margin: 0;
-  list-style: none;
+  
+  
+  
 }
 
 header,
@@ -181,9 +179,10 @@ ul {
 }
 
 p {
-  font-size: 13px;
+  font-size: 18px;
   line-height: 25px;
   color: #2a2a2a;
+  padding: 20px;
   text-align: justify;
 }
 
@@ -274,15 +273,9 @@ body {
 }
 
 .section-heading h2 {
-  line-height: 40px;
-  margin-top: 0px;
-  margin-bottom: 50px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid rgba(250, 250, 250, 0.15);
-  font-size: 22px;
-  font-weight: 900;
-  text-transform: uppercase;
+  padding: 15px;
   color: #165a95;
+ 
   
 }
 
@@ -308,7 +301,7 @@ header
 .sub-header .right-icons {
   text-align: right;
   padding: 8px 0px;
-  color: #165a95;
+  color: #e5e12f;
 }
 
 .sub-header .right-icons ul li {
@@ -317,7 +310,7 @@ header
 }
 
 .sub-header .right-icons ul li a {
-  color: #165a95;
+  color: #e5e12f;
   font-size: 14px;
   transition: all .3s;
 }
@@ -359,7 +352,7 @@ header
 }
 
 .header-area {
-  background-color: #eee;
+  background-color: #fff;
   position: absolute;
   top: 40px;
   left: 0;
@@ -811,15 +804,6 @@ banner
   display: none !important;
 }
 
-.video-overlay {
-  position: absolute;
-  background-color: rgba(31, 39, 43, 0.75);
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-}
 
 .main-banner .caption {
   position: absolute;
@@ -855,7 +839,7 @@ hr {
   letter-spacing: 6px;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding-left: 150px;
+  padding-left: 50px;
 
 }
 
@@ -1625,6 +1609,7 @@ section.heading-page h2 {
   font-weight: 800;
   color: #fff;
   letter-spacing: 1px;
+  margin: 30px;
 }
 
 
@@ -1828,13 +1813,13 @@ section.meetings-page .pagination ul li a:hover {
   width: 31%;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 100px) {
   .templatemo-item-col {
     width: 45%;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 120px) {
   .templatemo-item-col {
     width: 100%;
   }
@@ -1846,7 +1831,7 @@ responsive
 --------------------------------------------- 
 */
 
-@media (max-width: 1300px) {
+@media (max-width: 300px) {
   .services .owl-nav .owl-next {
     right: -30px;
   }
@@ -1864,7 +1849,7 @@ responsive
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 200px) {
   .services .owl-nav .owl-next {
     right: -70px;
   }
@@ -1882,7 +1867,7 @@ responsive
   }
 }
 
-@media (max-width: 1085px) {
+@media (max-width: 185px) {
   .services .owl-nav .owl-next {
     right: -30px;
   }
@@ -1900,7 +1885,7 @@ responsive
   }
 }
 
-@media (max-width: 1005px) {
+@media (max-width: 105px) {
   .services .owl-nav .owl-next {
     display: none;
   }
@@ -1939,7 +1924,7 @@ responsive
   }
 
   section.upcoming-meetings {
-    padding-top: 100px;
+    padding-top: 50px;
   }
 
   section.upcoming-meetings .categories {
@@ -1989,16 +1974,19 @@ responsive
 .div{
   padding: 22px;
   font-size: 20px;
-  text-align: left;
+  text-align: right;
   
 }
 .why{
   color: #a12c2f;
   text-align: center;
+  font-size: 35px;
+  padding-left: 100px;
   
-  padding-left: 90px;
 }
-
+.why.ul,li{
+  font-size: 35px;
+}
 .sha{
   text-align: center;
   padding-left: 25px;
@@ -2127,7 +2115,7 @@ input[type=submit] {
   border: 35px;
   height: 60px;
   width: 1200px;
-  background: darkgoldenrod;
+  background: #e5e12f;
   text-align: center;
   font-size: 22px;
   padding: 7px;
@@ -2138,7 +2126,7 @@ input[type=submit] {
   border: 35px;
   height: 60px;
   width: 1200px;
-  background: rgb(244, 198, 83);
+  background: #165a95;
   text-align: left;
   font-size: 22px;
   padding: 7px;
@@ -2191,7 +2179,7 @@ input[type=submit] {
   border: 35px;
   height: 60px;
   width: 2000px;
-  background: darkgoldenrod;
+  background: #165a95;
   text-align: left;
   font-size: 22px;
   padding: 7px;

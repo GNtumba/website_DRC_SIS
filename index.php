@@ -42,17 +42,15 @@ https://templatemo.com/tm-569-edu-meeting
         </div>
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
-           
-            <div class="gad">
-              <select class="form-select">
-                <option><a href="/fr">EN</a></option>
-                <option><a href="/en">FR</a></option>
-              </select>
-            </div>
+            <ul>
+              <h6>28-29 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+            </ul>
           </div>
         </div>
       </div>
     </div>
+  </div>
   </div>
 
   <!-- ***** Header Area Start ***** -->
@@ -63,17 +61,17 @@ https://templatemo.com/tm-569-edu-meeting
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="" class="logo">
-              <img height="95px"; width="60px" src="assets/images/drc isi logo site.png" alt="">
+              <img height="95px" ; width="60px" src="assets/images/drc isi logo site.png" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
-              <li><a href="drcsocial.php">DRC Social Innovation Summit 1 </a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
                 <ul class="sub-menu">
-                  <li><a href="network.html">NETWORK DRC-SIS</a></li>
+                  <li><a href="network.php">NETWORK DRC-SIS</a></li>
                   <li><a href="project.html">SUPPORTED PROJECT</a></li>
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
@@ -94,17 +92,13 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
-    <img src="assets/images/6.jpeg" alt="">
+    <img src="assets/images/BACKGROUND (1).jpg" alt="">
 
     <div class="video-overlay header-text">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="caption">
 
-              <h2>DRC SOCIAL INNOVATION SUMMIT(DRC-SIS).</h2>
-              <hr>
-            </div>
           </div>
         </div>
       </div>
@@ -116,11 +110,11 @@ https://templatemo.com/tm-569-edu-meeting
   <section class="upcoming-meetings" id="meetings">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12">
+        
           <div class="section-heading">
             <h2> WHO WE ARE </h2>
           </div>
-        </div>
+        
         <div class="col-lg-98">
           <div class="categories">
             <p>DRC Social Innovation Summit (DRC-SIS) is a partnership initiative established to catalyse interests, join efforts and facilitate research, capacity building, networking and investment in the social innovation sector in the Democratic Republic of Congo and the African continent.
@@ -141,7 +135,7 @@ https://templatemo.com/tm-569-edu-meeting
               <form id="contact" action="#" method="post">
                 <div class="row">
                   <div class="col-lg-12">
-                    <h2>Let's get in touch</h2>
+                    <h2>Contact us</h2>
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
@@ -185,7 +179,7 @@ https://templatemo.com/tm-569-edu-meeting
             <ul>
               <li>
                 <h6>Phone Number</h6>
-                <span>+243822931202</span>
+                <span>+243810780378</span>
               </li>
               <li>
                 <h6>Email Address</h6>
@@ -206,7 +200,7 @@ https://templatemo.com/tm-569-edu-meeting
     </div>
   </section>
   <div class="footer">
-    <p>Copyright © DRCSIS. All Rights Reserved.
+    <p> © DRCSIS. All Rights Reserved.
 
   </div>
 
