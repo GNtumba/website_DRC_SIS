@@ -44,7 +44,11 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="right-icons">
             <ul>
               <h6>28-29 November 2022</h6>
+<<<<<<< HEAD
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
             </ul>
 
 
@@ -71,8 +75,18 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
               <li><a href="parteners.php">Parteners</a></li>
+<<<<<<< HEAD
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+              <li><a href="speakers.html">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us/</a></li>
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
               <li><a href="#">DOWLOADS/BROCHURE</a></li>
             </ul>
             <a class='menu-trigger'>
@@ -88,11 +102,23 @@ https://templatemo.com/tm-569-edu-meeting
 
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
+<<<<<<< HEAD
   <section class="heading-page header-text" id="top">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <h2>Thème: UNLEASHING SOCIAL INNOVATION FOR THE SOCIAL TRANSFORMATION OF DRC</h2>
+=======
+  <section class="section main-banner" id="top" data-section="section1">
+    <img src="assets/images/6.jpeg" alt="">
+
+    <div class="video-overlay header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+          </div>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
         </div>
       </div>
     </div>
