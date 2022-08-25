@@ -183,7 +183,11 @@ p {
   line-height: 25px;
   color: #2a2a2a;
   padding: 20px;
+<<<<<<< HEAD
   text-align: justify;
+=======
+  text-align: initial;
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
 }
 
 li {

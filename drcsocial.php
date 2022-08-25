@@ -71,8 +71,13 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
               <li><a href="parteners.php">Parteners</a></li>
+<<<<<<< HEAD
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
+=======
+              <li><a href="speakers.html">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us/</a></li>
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
               <li><a href="#">DOWLOADS/BROCHURE</a></li>
             </ul>
             <a class='menu-trigger'>
