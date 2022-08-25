@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
-  <meta name="author" content="TemplateMo">
+  <meta name="author" content="Template Mo">
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
   <title>DRCSIS</title>
@@ -70,10 +70,10 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="aboutdrc.php">HISTORY</a></li>
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
-              <li><a href="parteners.php">Partners</a></li>
-              <li><a href="speakers.html">SPEAKERS</a></li>
+              <li><a href="parteners.php">Parteners</a></li>
+              <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
-              <li><a href="#contact">DOWLOADS/Brochure</a></li>
+              <li><a href="#">DOWLOADS/Brochure</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -85,25 +85,163 @@ https://templatemo.com/tm-569-edu-meeting
     </div>
   </header>
   <!-- ***** Header Area End ***** -->
+
   <section class="heading-page header-text" id="top">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
 
-          <h2>Choose your payment</h2>
+          <h2>SPEAKERS</h2>
         </div>
       </div>
     </div>
   </section>
-  <section>
-    <br>
-    <div class="sha">
-      <p></p>
-      <a href="exhibit.php"><button class="btn btn-primary" type="submit">CDF</button></a>
-      <a href="exhibit2.php"><button class="btn btn-primary" type="submit">USD</button></a>
-    </div> <br><br>
-    </div>
-    </div>
+
+  <section class="meetings-page" id="meetings">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            <div class="col-lg-24">
+              <div class="section-heading">
+                <h2>SPEAKERS</h2>
+              </div>
+            </div>
+            <div class="col-lg-12">
+              <div class="row grid">
+                <div class="col-lg-4 templatemo-item-col all soon">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-01.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <h4>New Lecturers Meeting</h4>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all imp">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-02.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <h4>Online Teaching Techniques</h4>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all soon">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-03.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <h4>Network Teaching Concept</h4>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all att">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-04.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <a href="meeting-details.html">
+                        <h4>Online Teaching Tools</h4>
+                      </a>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all att">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-02.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <a href="meeting-details.html">
+                        <h4>New Teaching Techniques</h4>
+                      </a>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all imp">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-03.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <a href="meeting-details.html">
+                        <h4>Technology Conference</h4>
+                      </a>
+                      <p>TemplateMo is the best website<br>when it comes to Free CSS.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all imp att">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-01.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <h4>Online Teaching Techniques</h4>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all soon imp">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-02.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <a href="meeting-details.html">
+                        <h4>Instant Lecture Design</h4>
+                      </a>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 templatemo-item-col all att soon">
+                  <div class="meeting-item">
+                    <div class="thumb">
+
+                      <img src="assets/images/meeting-03.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+
+                      <a href="meeting-details.html">
+                        <h4>Online Social Networking</h4>
+                      </a>
+                      <p>Morbi in libero blandit lectus<br>cursus ullamcorper.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
     </div>
     <section class="contact-us" id="contact">
       <div class="container">
@@ -178,7 +316,6 @@ https://templatemo.com/tm-569-edu-meeting
         </div>
       </div>
     </section>
-
     <div class="footer">
       <p> © DRCSIS. All Rights Reserved.
 

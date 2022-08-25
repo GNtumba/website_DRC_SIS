@@ -31,24 +31,17 @@ https://templatemo.com/tm-569-edu-meeting
 
 <body>
 
+
+
   <!-- Sub Header -->
   <div class="sub-header">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-sm-8">
-          <div class="left-content">
 
-          </div>
         </div>
         <div class="col-lg-4 col-sm-4">
-          <div class="right-icons">
-            <ul>
-              <h6>28-29 November 2022</h6>
-              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
-            </ul>
 
-
-          </div>
         </div>
       </div>
     </div>
@@ -67,13 +60,29 @@ https://templatemo.com/tm-569-edu-meeting
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li><a href="aboutdrc.php">HISTORY</a></li>
-              <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
-              <li><a href="registerychoose.php">REGISTER</a></li>
-              <li><a href="parteners.php">Partners</a></li>
-              <li><a href="speakers.html">SPEAKERS</a></li>
-              <li><a href="#contact">Contact Us</a></li>
-              <li><a href="#contact">DOWLOADS/Brochure</a></li>
+              <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
+              <li class="has-sub">
+                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
+                <ul class="sub-menu">
+                  <li><a href="history.html">HISTORY</a></li>
+                  <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
+                  <li><a href="registery.html">REGISTER</a></li>
+                  <li><a href="parteners.html">PARTENERS</a></li>
+                  <li><a href="speakers.php">SPEAKERS</a></li>
+                  <li><a href="meeting-details.html">SUMMIT BROCHURE</a></li>
+                </ul>
+              </li>
+              <li class="has-sub">
+                <a href="javascript:void(0)"> NETWORK</a>
+                <ul class="sub-menu">
+                  <li><a href="network.php">NETWORK DRC-SIS</a></li>
+                  <li><a href="project.html">SUPPORTED PROJECT</a></li>
+                  <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
+                </ul>
+              </li>
+              <li class="scroll-to-section"><a href="parteners.html">Parteners</a></li>
+              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -90,7 +99,7 @@ https://templatemo.com/tm-569-edu-meeting
       <div class="row">
         <div class="col-lg-12">
 
-          <h2>Choose your payment</h2>
+          <h2>NETWORK</h2>
         </div>
       </div>
     </div>
@@ -98,13 +107,9 @@ https://templatemo.com/tm-569-edu-meeting
   <section>
     <br>
     <div class="sha">
-      <p></p>
-      <a href="exhibit.php"><button class="btn btn-primary" type="submit">CDF</button></a>
-      <a href="exhibit2.php"><button class="btn btn-primary" type="submit">USD</button></a>
+      <a href="membredrc.html"><button class="btn btn-primary" type="submit">IN DRC</button></a>
+      <a href="memberafric.html"><button class="btn btn-primary" type="submit">IN AFRIC</button></a>
     </div> <br><br>
-    </div>
-    </div>
-    </div>
     <section class="contact-us" id="contact">
       <div class="container">
         <div class="row">
