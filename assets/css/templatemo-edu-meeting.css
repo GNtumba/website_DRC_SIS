@@ -121,6 +121,7 @@ html[xmlns] .clearfix {
 ul,
 li {
   
+<<<<<<< HEAD
   font-size: 35px;
   
 }
@@ -128,6 +129,22 @@ li {
   scroll-behavior: auto;
   box-sizing: border-box;
   font-family: Georgia, 'Times New Roman', Times, serif;
+=======
+<<<<<<< HEAD
+  font-size: 35px;
+=======
+<<<<<<< HEAD
+  font-size: 35px;
+=======
+<<<<<<< HEAD
+  font-size: 35px;
+=======
+  
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+  
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
 }
 
 header,
@@ -188,7 +205,26 @@ p {
   line-height: 25px;
   color: #2a2a2a;
   padding: 20px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
   text-align: justify;
+=======
+  text-align: initial;
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
 }
 
 li {
@@ -2007,8 +2043,27 @@ responsive
   padding-left: 100px;
   
 }
+<<<<<<< HEAD
 .why.ul{
   
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+.why.ul,li{
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
   font-size: 35px;
 }
 .sha{
