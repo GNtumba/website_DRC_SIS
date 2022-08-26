@@ -44,8 +44,8 @@ https://templatemo.com/tm-569-edu-meeting
                     <div class="right-icons">
                         <ul>
 
-                            <h5>28-29 November 2022</h5>
-                            <h5>DRC-Kinshasa, Fleuve congo Hotel </h5>
+                            <h6>29-30 November 2022</h6>
+                            <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
                         </ul>
 
 
@@ -75,8 +75,9 @@ https://templatemo.com/tm-569-edu-meeting
                             <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
                             <li><a href="registerychoose.php">REGISTER</a></li>
                             <li><a href="parteners.php">Parteners</a></li>
-                            <li><a href="speakers.html">SPEAKERS</a></li>
-                            <li><a href="#contact">Contact Us/DOWLOADS</a></li>
+                            <li><a href="speakers.php">SPEAKERS</a></li>
+                            <li><a href="#contact">Contact Us</a></li>
+                            <li><a href="#contact">DOWLOADS/Brochure</a></li>
 
                         </ul>
                         <a class='menu-trigger'>
@@ -97,7 +98,7 @@ https://templatemo.com/tm-569-edu-meeting
     <!-- ***** Main Banner Area End ***** -->
     <!-- ***** Main Banner Area End ***** -->
     <section class="section main-banner" id="top" data-section="section1">
-        <img src="assets/images/4.jpeg" alt="">
+        <img src="assets/images/J2.jpeg" alt="">
 
         <div class="video-overlay header-text">
             <div class="container">
@@ -117,20 +118,20 @@ https://templatemo.com/tm-569-edu-meeting
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2> ABOUT DRC-SIS</h2>
+                        <h2> HISTORY</h2>
                     </div>
                 </div>
                 <div class="col-lg-98">
                     <div class="categories">
-                        <p>The DRC Social Innovation Summit (DRC-SIS) is a partnership initiative established to catalyse interests, join efforts
-                            and facilitate research, capacity building, networking and investment in the social innovation sector in the Democratic
-                            Republic of Congo and the African continent.
+                        <p>For the first time in the Democratic Republic of Congo’s history, the DRC Social Innovation Summit (DRC-SIS) has partnered with AgroMwinda Leadership Academy (ALA) and the Tangaza University College - Institute for Social Transformation (Catholic University of Eastern Africa, CUEA, Nairobi-Kenya) to launch the Social Innovation Summit.
+                            <br>
+                            Both the DRC Social Innovation Summit (DRC-SIS), AgroMwinda Leadership Academy (ALA) and Tangaza University College- Institute for Social Transformation (TUC-IST) were part of the African Social Business Conference organized in Nairobi (Kenya) and the DRC Investment Summit that took place in Kinshasa in June 2022 and saw these events as great opportunities to bring a larger critical mass of community members and leaders to this podium to meet and discuss with top global, regional and local social innovators and policymakers from various industries.
+                            <br>
+                            500 social innovators, entrepreneurs, investors, researchers and policymakers across Africa and around the world will converge at Fleuve Congo Hotel in Kinshasa from 27-29 November 2022 alongside other delegates to showcase research findings, policy outcomes and their innovative ideas and initiatives while providing a social innovation edge to the summit. <a href="history.html"> Find out more</a>
                         </p>
-                    </div><br>
-                </div> <br>
-                <div class="why">
-                    <a href="history.html"> Find out more</a>
+                    </div>
                 </div>
+
     </section>
     <section class="contact-us" id="contact">
         <div class="container">
@@ -141,7 +142,7 @@ https://templatemo.com/tm-569-edu-meeting
                             <form id="contact" action="#" method="post">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <h2>Let's get in touch</h2>
+                                        <h2>Contact us</h2>
                                     </div>
                                     <div class="col-lg-4">
                                         <fieldset>
@@ -186,7 +187,7 @@ https://templatemo.com/tm-569-edu-meeting
                         <ul>
                             <li>
                                 <h6>Phone Number</h6>
-                                <span>+243822931202</span>
+                                <span>+243810780378</span>
                             </li>
                             <li>
                                 <h6>Email Address</h6>
@@ -209,7 +210,7 @@ https://templatemo.com/tm-569-edu-meeting
     <hr>
 
     <div class="footer">
-        <p>Copyright © DRCSIS. All Rights Reserved.
+        <p> © DRCSIS. All Rights Reserved.
 
     </div>
 

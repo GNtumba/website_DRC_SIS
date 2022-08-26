@@ -68,7 +68,7 @@ https://templatemo.com/tm-569-edu-meeting
         </select><br>
         <br>
         <h5>NOTE: you must be a paying member of the DRC-SIS to get the member rate</h5><br>
-        <h6>To become a member of the African Agri Council go to <a href="http://www.drcsis.com">www.drcsis.com </a> to find out more. If you are already a member
+        <h6>To become a member of the DRC-SIS <a href="http://www.drcsis.com">www.drcsis.com </a> to find out more. If you are already a member
             take advantage of our 30% discounted rates for all our conferences, to exhibit, to sponsor and much more.</h6>
         <input name=" mail" type="text" placeholder="Adresse e-mail"><br><br>
         <input name="nomCompagnie" type="text" placeholder="Company"><br><br>
@@ -379,7 +379,7 @@ https://templatemo.com/tm-569-edu-meeting
 
 
 <div class="footer">
-    <p>Copyright © DRCSIS. All Rights Reserved.
+    <p> © DRCSIS. All Rights Reserved.
 
 </div>
 
