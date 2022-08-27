@@ -1,34 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
 <head>
 
   <meta charset="utf-8">
@@ -48,26 +21,7 @@
   <link rel="stylesheet" href="assets/css/templatemo-edu-meeting.css">
   <link rel="stylesheet" href="assets/css/owl.css">
   <link rel="stylesheet" href="assets/css/lightbox.css">
-  <!--
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
+  
   <head>
 
     <meta charset="utf-8">
@@ -87,161 +41,37 @@
     <link rel="stylesheet" href="assets/css/templatemo-edu-meeting.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/lightbox.css">
-    <!--
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
 
 TemplateMo 569 Edu Meeting
 
 https://templatemo.com/tm-569-edu-meeting
 
--->
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
 </head>
 
 <body>
 
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
   </head>
 
 <body>
-
-   
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
 
   <!-- Sub Header -->
   <div class="sub-header">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-sm-8">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
 
         </div>
         <div class="col-lg-4 col-sm-4">
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
+
           
         </div>
         <div class="col-lg-4 col-sm-4">
           
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
         </div>
       </div>
     </div>
@@ -262,93 +92,12 @@ https://templatemo.com/tm-569-edu-meeting
             <ul class="nav">
               <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
               <li class="has-sub">
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-<<<<<<< HEAD
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 2022</a>
-=======
-                <a href="javascript:void(0)"> DRC Social Innovation Summit 1</a>
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
                 <ul class="sub-menu">
                   <li><a href="history.html">HISTORY</a></li>
                   <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
                   <li><a href="registery.html">REGISTER</a></li>
                   <li><a href="parteners.html">PARTENERS</a></li>
-<<<<<<< HEAD
                   <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-<<<<<<< HEAD
-                  <li><a href="speakers.php">SPEAKERS</a></li>
-=======
-                  <li><a href="speakers.html">SPEAKERS</a></li>
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
                   <li><a href="meeting-details.html">SUMMIT BROCHURE</a></li>
                 </ul>
               </li>
@@ -359,70 +108,10 @@ https://templatemo.com/tm-569-edu-meeting
                   <li><a href="project.html">SUPPORTED PROJECT</a></li>
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
               </li>
               <li class="scroll-to-section"><a href="parteners.html">Parteners</a></li>
               <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
-              </li>              <li class="scroll-to-section"><a href="parteners.html">Parteners</a></li>
-              <li class="scroll-to-section"><a href="index.php">Contact Us</a></li>
-  
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -438,81 +127,12 @@ https://templatemo.com/tm-569-edu-meeting
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
           <h2>NETWORK</h2>
         </div>
       </div>
     </div>
   </section>
   <section>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
     <br>
     <div class="sha">
       <a href="membredrc.html"><button class="btn btn-primary" type="submit">IN DRC</button></a>
@@ -557,25 +177,7 @@ https://templatemo.com/tm-569-edu-meeting
                   </div>
                 </form>
                 <?php
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
+
   <br>
   <div class="sha">
     <a href="membredrc.html"><button class="btn btn-primary" type="submit">IN DRC</button></a>
