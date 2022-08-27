@@ -72,7 +72,7 @@ https://templatemo.com/tm-569-edu-meeting
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
                 <ul class="sub-menu">
-                  <li><a href="network.php">NETWORK DRC-SIS</a></li>
+                  <li><a href="#network.php">NETWORK DRC-SIS</a></li>
                   <li><a href="project.html">SUPPORTED PROJECT</a></li>
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
