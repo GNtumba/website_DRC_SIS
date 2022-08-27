@@ -121,6 +121,19 @@ html[xmlns] .clearfix {
 ul,
 li {
   
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
   font-size: 35px;
   
 }
@@ -128,6 +141,34 @@ li {
   scroll-behavior: auto;
   box-sizing: border-box;
   font-family: Georgia, 'Times New Roman', Times, serif;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+  font-size: 35px;
+=======
+<<<<<<< HEAD
+  font-size: 35px;
+=======
+<<<<<<< HEAD
+  font-size: 35px;
+=======
+  
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+  
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
 }
 
 header,
@@ -188,7 +229,38 @@ p {
   line-height: 25px;
   color: #2a2a2a;
   padding: 20px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
   text-align: justify;
+=======
+  text-align: initial;
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
 }
 
 li {
@@ -278,7 +350,23 @@ body {
 }
 
 .section-heading h2 {
+<<<<<<< HEAD
   padding: 14px;
+=======
+<<<<<<< HEAD
+  padding: 14px;
+=======
+<<<<<<< HEAD
+  padding: 14px;
+=======
+<<<<<<< HEAD
+  padding: 14px;
+=======
+  padding: 15px;
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
   color: #165a95;
  
   
@@ -296,7 +384,22 @@ header
   position: relative;
   z-index: 1111;
   padding-top: 1px;
+<<<<<<< HEAD
   
+=======
+<<<<<<< HEAD
+  
+=======
+<<<<<<< HEAD
+  
+=======
+<<<<<<< HEAD
+  
+=======
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
 }
 
 .sub-header .left-content p {
@@ -2008,8 +2111,47 @@ responsive
   padding-left: 100px;
   
 }
+<<<<<<< HEAD
 .why.ul{
   
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+<<<<<<< HEAD
+.why.ul{
+  
+=======
+.why.ul,li{
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
   font-size: 35px;
 }
 .sha{

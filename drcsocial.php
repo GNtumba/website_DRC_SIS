@@ -43,8 +43,51 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
+<<<<<<< HEAD
               <h6>29-30 November 2022</h6>
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>28-29 November 2022</h6>
+<<<<<<< HEAD
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
             </ul>
 
 
@@ -70,9 +113,63 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="aboutdrc.php">HISTORY</a></li>
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
+<<<<<<< HEAD
               <li><a href="parteners.php">Partners</a></li>
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="parteners.php">Partners</a></li>
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="parteners.php">Partners</a></li>
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="parteners.php">Partners</a></li>
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+              <li><a href="parteners.php">Parteners</a></li>
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+<<<<<<< HEAD
+              <li><a href="speakers.php">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+=======
+              <li><a href="speakers.html">SPEAKERS</a></li>
+              <li><a href="#contact">Contact Us/</a></li>
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
               <li><a href="#">DOWLOADS/BROCHURE</a></li>
             </ul>
             <a class='menu-trigger'>
@@ -88,11 +185,71 @@ https://templatemo.com/tm-569-edu-meeting
 
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
   <section class="heading-page header-text" id="top">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <h2>Thème: UNLEASHING SOCIAL INNOVATION FOR THE SOCIAL TRANSFORMATION OF DRC</h2>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+  <section class="section main-banner" id="top" data-section="section1">
+    <img src="assets/images/6.jpeg" alt="">
+
+    <div class="video-overlay header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+          </div>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
         </div>
       </div>
     </div>
@@ -115,6 +272,28 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="row">
                   <div class="col-lg-12">
                     <h2>Contact us</h2>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
@@ -123,6 +302,37 @@ https://templatemo.com/tm-569-edu-meeting
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="name" type="text" id="name" placeholder="Your name...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
                       <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your email..." required="">
                     </fieldset>
                   </div>

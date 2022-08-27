@@ -43,8 +43,51 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
+<<<<<<< HEAD
               <h6>29-30 November 2022</h6>
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>29-30 November 2022</h6>
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>28-29 November 2022</h6>
+<<<<<<< HEAD
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+<<<<<<< HEAD
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
             </ul>
           </div>
         </div>
@@ -66,8 +109,50 @@ https://templatemo.com/tm-569-edu-meeting
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
+<<<<<<< HEAD
               <li class=""><a href="#meetings">ABOUT US</a></li>
               <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+=======
+<<<<<<< HEAD
+              <li class=""><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+=======
+<<<<<<< HEAD
+              <li class=""><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+=======
+<<<<<<< HEAD
+              <li class=""><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+=======
+<<<<<<< HEAD
+              <li class=""><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+=======
+<<<<<<< HEAD
+              <li class="scroll-to-section"><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+              <li class=""><a href="#meetings">ABOUT US</a></li>
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 1 </a></li>
+>>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
+>>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
+>>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
                 <ul class="sub-menu">
@@ -76,7 +161,7 @@ https://templatemo.com/tm-569-edu-meeting
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
               </li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class=""><a href="#contact">Contact Us</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -92,7 +177,35 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
+<<<<<<< HEAD
     <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+<<<<<<< HEAD
+    <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+<<<<<<< HEAD
+    <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+<<<<<<< HEAD
+    <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+<<<<<<< HEAD
+    <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+<<<<<<< HEAD
+    <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+<<<<<<< HEAD
+    <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+    <img src="assets/images/BACKGROUND (1).jpg" alt="">
+>>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
+>>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
+>>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
+>>>>>>> d53c496407317032e723ff5667665ec11765dd9c
+>>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
+>>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
+>>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
 
     <div class="video-overlay header-text">
       <div class="container">
