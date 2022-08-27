@@ -224,50 +224,14 @@ https://templatemo.com/tm-569-edu-meeting
                 </div>
               </form>
               <?php
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
                 include('classes/Contact.class.php');
                 $contact = new Contact;
                 if (isset($_POST['create'])) {
                   $contact->create($_POST['name'], $_POST['email'], $_POST['subject'], $_POST['message']);
                 }
                 ?>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
               </div>
             </div>
           </div>
@@ -302,25 +266,7 @@ https://templatemo.com/tm-569-edu-meeting
 
     </div>
   </section>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
+
             </div>
           </div>
         </div>
@@ -355,48 +301,12 @@ https://templatemo.com/tm-569-edu-meeting
   
   </div>
   </section>
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
 
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
+
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
@@ -460,35 +370,7 @@ https://templatemo.com/tm-569-edu-meeting
 
 </body>
 
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-<<<<<<< HEAD
-</html>
-=======
-</html>
-=======
+
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
@@ -552,13 +434,3 @@ https://templatemo.com/tm-569-edu-meeting
   </body>
 
 </html>
->>>>>>> 7dfd60e0c4cbfc9d7e0cbd3c73894fc85de6d1cf
->>>>>>> 7ebd8b1d3ca0b2adb8437044a02647c6cc1ed609
->>>>>>> 1e1158f4c8e7ce5203a8f20a9baec6fb27138a5b
->>>>>>> 0b1d38fd321c43599480f6641da1937d69a45638
->>>>>>> 4527ebe7f793e502ae45c5c45459edac8d640c54
->>>>>>> 83c455e984e2c0b903c0654238812c0188e84e67
->>>>>>> d53c496407317032e723ff5667665ec11765dd9c
->>>>>>> 28bb9257f03f1b4a57aaeececd139ccf2b9d014a
->>>>>>> 17111d66f8ef5d2159d8c6618a15e903004873b5
->>>>>>> c7415a2cfa6b623384749bbdc9e4211ec4df7a34
