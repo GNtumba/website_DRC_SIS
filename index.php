@@ -61,7 +61,7 @@ https://templatemo.com/tm-569-edu-meeting
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="" class="logo">
-              <img height="95px" ; width="60px" src="assets/images/drc isi logo site.png" alt="">
+              <img height="95px"  ; width="60px" src="assets/images/drc isi logo site.png" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->

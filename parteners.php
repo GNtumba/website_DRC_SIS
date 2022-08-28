@@ -96,6 +96,7 @@ https://templatemo.com/tm-569-edu-meeting
           </div>
         </div>
 
+
         <div class="row">
           <div class="col-lg-3">
             <div class="meeting-item">
@@ -108,7 +109,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
-                <a href="ist.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a>
+                <a href="ist.html"><a href="ist.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a></a>
               </div>
 
             </div>
