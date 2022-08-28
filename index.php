@@ -43,6 +43,10 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
               <h6>29-30 November 2022</h6>
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
             </ul>
@@ -67,16 +71,24 @@ https://templatemo.com/tm-569-edu-meeting
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <li class=""><a href="#meetings">ABOUT US</a></li>
+<<<<<<< HEAD
               <li><a href="drcsocial.php">DRC Social Innovation Summit 2022 </a></li>
               <li class="has-sub">
                 <a href="javascript:void(0)"> NETWORK</a>
                 <ul class="sub-menu">
                   <li><a href="network.php">NETWORK DRC-SIS</a></li>
+=======
+              <li><a href="drcsocial.php">DRC Social Innovation Summit 1 </a></li>
+              <li class="has-sub">
+                <a href="javascript:void(0)"> NETWORK</a>
+                <ul class="sub-menu">
+                  <li><a href="#network.php">NETWORK DRC-SIS</a></li>
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
                   <li><a href="project.html">SUPPORTED PROJECT</a></li>
                   <li><a href="index.php">SEARCH AND PUBLICATION</a></li>
                 </ul>
               </li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class=""><a href="#contact">Contact Us</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -92,7 +104,12 @@ https://templatemo.com/tm-569-edu-meeting
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
+<<<<<<< HEAD
     <img src="assets/images/BACKGROUND (2).jpg" alt="">
+=======
+    <img src="assets/images/BACKGROUND (1).jpg" alt="">
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
 
     <div class="video-overlay header-text">
       <div class="container">

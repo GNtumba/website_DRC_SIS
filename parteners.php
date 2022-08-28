@@ -43,8 +43,14 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
+<<<<<<< HEAD
               <h6>29-30 November 2022</h6>
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+=======
+
+              <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
+              <h6>DRC-Kinshasa, Fleuve congo Hotel </h6>
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
             </ul>
 
 
@@ -92,7 +98,13 @@ https://templatemo.com/tm-569-edu-meeting
       <div class="row">
         <div class="col-lg-24">
           <div class="section-heading">
+<<<<<<< HEAD
             <h2> Strategic Partners</h2>
+=======
+
+            <h2> strategic Partners</h2>
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
           </div>
         </div>
 
@@ -121,14 +133,29 @@ https://templatemo.com/tm-569-edu-meeting
 
             </div>
           </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
                 <img src="assets/images/PICAGEL LOGO.png" alt="Online Teaching">
               </div>
+<<<<<<< HEAD
+=======
+
 
             </div>
           </div>
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
+
+        </div>
+      </div>
+    </div>
+    </div>
+    </div>
+  </section>
 
         </div>
       </div>

@@ -43,7 +43,10 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="col-lg-4 col-sm-4">
                     <div class="right-icons">
                         <ul>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
                             <h6>29-30 November 2022</h6>
                             <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
                         </ul>
@@ -77,7 +80,11 @@ https://templatemo.com/tm-569-edu-meeting
                             <li><a href="parteners.php">Parteners</a></li>
                             <li><a href="speakers.php">SPEAKERS</a></li>
                             <li><a href="#contact">Contact Us</a></li>
+<<<<<<< HEAD
                             <li><a href="#contact">DOWLOADS/Brochure</a></li>
+=======
+                            <li><a href="#">DOWLOADS/Brochure</a></li>
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
 
                         </ul>
                         <a class='menu-trigger'>

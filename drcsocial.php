@@ -43,6 +43,10 @@ https://templatemo.com/tm-569-edu-meeting
         <div class="col-lg-4 col-sm-4">
           <div class="right-icons">
             <ul>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
               <h6>29-30 November 2022</h6>
               <h6>DRC-Kinshasa, Fleuve Congo Hotel </h6>
             </ul>
@@ -88,11 +92,29 @@ https://templatemo.com/tm-569-edu-meeting
 
   <!-- ***** Main Banner Area Start ***** -->
   <!-- ***** Main Banner Area Start ***** -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
   <section class="heading-page header-text" id="top">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <h2>Thème: UNLEASHING SOCIAL INNOVATION FOR THE SOCIAL TRANSFORMATION OF DRC</h2>
+<<<<<<< HEAD
+=======
+</section>
+  <section class="section main-banner" id="top" data-section="section1">
+    <img src="assets/images/6.jpeg" alt="">
+
+    <div class="video-overlay header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+          </div>
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
         </div>
       </div>
     </div>
@@ -115,6 +137,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="row">
                   <div class="col-lg-12">
                     <h2>Contact us</h2>
+<<<<<<< HEAD
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
@@ -123,6 +146,27 @@ https://templatemo.com/tm-569-edu-meeting
                   </div>
                   <div class="col-lg-4">
                     <fieldset>
+=======
+
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="name" type="text" id="name" placeholder="Your name...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="name" type="text" id="name" placeholder="Your name...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+
+>>>>>>> 467436b721a7a66fd876d559afc7f94e2b9e3c1d
                       <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your email..." required="">
                     </fieldset>
                   </div>
