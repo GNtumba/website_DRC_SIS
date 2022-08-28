@@ -113,7 +113,7 @@ https://templatemo.com/tm-569-edu-meeting
 
         <div class="section-heading">
           <h2> WHO WE ARE </h2>
-          <span></span>
+          <span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</span>
         </div>
 
         <div class="col-lg-98">

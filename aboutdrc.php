@@ -118,6 +118,7 @@ https://templatemo.com/tm-569-edu-meeting
                 <div class="col-lg-12">
                     <div class="section-heading">
                         <h2> HISTORY</h2>
+                        <span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</span>
                     </div>
                 </div>
                 <div class="col-lg-98">
