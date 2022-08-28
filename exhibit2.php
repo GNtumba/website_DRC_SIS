@@ -43,7 +43,7 @@ https://templatemo.com/tm-569-edu-meeting
 <div class="jus">
     <div class="ex">
         <h6>28-29 November 2022</h6>
-        <h6>DRC, Kinshasa</h6>
+        <h6>Fleuve congo hotel, Kinshasa</h6>
     </div>
     <br>
     <h4>Please note :</h4>
@@ -67,8 +67,8 @@ https://templatemo.com/tm-569-edu-meeting
             <option value="option4" selected>Rate per VIP AAC Member = $16000</option>
         </select><br>
         <br>
-        <h5>NOTE: you must be a paying member of the African Agri Council to get the member rate</h5><br>
-        <h6>To become a member of the DRC-SIS go to <a href="www.agricouncil.org">www.agricouncil.org</a> to find out more. If you are already a member
+        <h5>NOTE: you must be a paying member of the DRC-SIS to get the member rate</h5><br>
+        <h6>To become a member of the DRC-SIS go to <a href="http://www.drcsis.com">www.drcsis.com</a> to find out more. If you are already a member
             take advantage of our 30% discounted rates for all our conferences, to exhibit, to sponsor and much more.</h6>
         <input name="mail" type="text" placeholder="Adresse e-mail"><br><br>
         <input name="nomCompagnie" type="text" placeholder="Company"><br><br>
@@ -379,7 +379,7 @@ https://templatemo.com/tm-569-edu-meeting
 
 
 <div class="footer">
-    <p>Copyright © DRCSIS. All Rights Reserved.
+    <p> © DRCSIS. All Rights Reserved.
 
 </div>
 
