@@ -73,7 +73,7 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="parteners.php">Partners</a></li>
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
-              <li><a href="#">DOWLOADS/BROCHURE</a></li>
+              <li><a href="/website_drc_sis/documents/DRC SIS BROCHURE ENGLISH VERSION  AUGUST 2022.pdf">DOWLOADS/BROCHURE</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -182,68 +182,68 @@ https://templatemo.com/tm-569-edu-meeting
   <div class="footer">
     <p> © DRCSIS. All Rights Reserved.
 
-    </div>
+  </div>
 
 
-    <!-- Scripts -->
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <script src="assets/js/isotope.min.js"></script>
-    <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/lightbox.js"></script>
-    <script src="assets/js/tabs.js"></script>
-    <script src="assets/js/video.js"></script>
-    <script src="assets/js/slick-slider.js"></script>
-    <script src="assets/js/custom.js"></script>
-    <script>
-      //according to loftblog tut
-      $('.nav li:first').addClass('active');
+  <script src="assets/js/isotope.min.js"></script>
+  <script src="assets/js/owl-carousel.js"></script>
+  <script src="assets/js/lightbox.js"></script>
+  <script src="assets/js/tabs.js"></script>
+  <script src="assets/js/video.js"></script>
+  <script src="assets/js/slick-slider.js"></script>
+  <script src="assets/js/custom.js"></script>
+  <script>
+    //according to loftblog tut
+    $('.nav li:first').addClass('active');
 
-      var showSection = function showSection(section, isAnimate) {
+    var showSection = function showSection(section, isAnimate) {
+      var
+        direction = section.replace(/#/, ''),
+        reqSection = $('.section').filter('[data-section="' + direction + '"]'),
+        reqSectionPos = reqSection.offset().top - 0;
+
+      if (isAnimate) {
+        $('body, html').animate({
+            scrollTop: reqSectionPos
+          },
+          800);
+      } else {
+        $('body, html').scrollTop(reqSectionPos);
+      }
+
+    };
+
+    var checkSection = function checkSection() {
+      $('.section').each(function() {
         var
-          direction = section.replace(/#/, ''),
-          reqSection = $('.section').filter('[data-section="' + direction + '"]'),
-          reqSectionPos = reqSection.offset().top - 0;
-
-        if (isAnimate) {
-          $('body, html').animate({
-              scrollTop: reqSectionPos
-            },
-            800);
-        } else {
-          $('body, html').scrollTop(reqSectionPos);
-        }
-
-      };
-
-      var checkSection = function checkSection() {
-        $('.section').each(function() {
+          $this = $(this),
+          topEdge = $this.offset().top - 80,
+          bottomEdge = topEdge + $this.height(),
+          wScroll = $(window).scrollTop();
+        if (topEdge < wScroll && bottomEdge > wScroll) {
           var
-            $this = $(this),
-            topEdge = $this.offset().top - 80,
-            bottomEdge = topEdge + $this.height(),
-            wScroll = $(window).scrollTop();
-          if (topEdge < wScroll && bottomEdge > wScroll) {
-            var
-              currentId = $this.data('section'),
-              reqLink = $('a').filter('[href*=\\#' + currentId + ']');
-            reqLink.closest('li').addClass('active').
-            siblings().removeClass('active');
-          }
-        });
-      };
-
-      $('.main-menu, .responsive-menu, .scroll-to-section').on('click', 'a', function(e) {
-        e.preventDefault();
-        showSection($(this).attr('href'), true);
+            currentId = $this.data('section'),
+            reqLink = $('a').filter('[href*=\\#' + currentId + ']');
+          reqLink.closest('li').addClass('active').
+          siblings().removeClass('active');
+        }
       });
+    };
 
-      $(window).scroll(function() {
-        checkSection();
-      });
-    </script>
+    $('.main-menu, .responsive-menu, .scroll-to-section').on('click', 'a', function(e) {
+      e.preventDefault();
+      showSection($(this).attr('href'), true);
+    });
+
+    $(window).scroll(function() {
+      checkSection();
+    });
+  </script>
 </body>
 
 </body>

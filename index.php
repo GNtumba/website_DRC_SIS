@@ -61,7 +61,7 @@ https://templatemo.com/tm-569-edu-meeting
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="" class="logo">
-              <img height="95px"  ; width="60px" src="assets/images/drc isi logo site.png" alt="">
+              <img height="95px" ; width="60px" src="assets/images/drc isi logo site.png" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -110,11 +110,12 @@ https://templatemo.com/tm-569-edu-meeting
   <section class="upcoming-meetings" id="meetings">
     <div class="container">
       <div class="row">
-        
-          <div class="section-heading">
-            <h2> WHO WE ARE </h2>
-          </div>
-        
+
+        <div class="section-heading">
+          <h2> WHO WE ARE </h2>
+          <span></span>
+        </div>
+
         <div class="col-lg-98">
           <div class="categories">
             <p>DRC Social Innovation Summit (DRC-SIS) is a partnership initiative established to catalyse interests, join efforts and facilitate research, capacity building, networking and investment in the social innovation sector in the Democratic Republic of Congo and the African continent.
