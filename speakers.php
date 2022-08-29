@@ -73,7 +73,7 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="parteners.php">Parteners</a></li>
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
-              <li><a href="#">DOWLOADS/Brochure</a></li>
+              <li><a href="/website_drc_sis/documents/DRC SIS BROCHURE ENGLISH VERSION  AUGUST 2022.pdf">DOWLOADS/Brochure</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
