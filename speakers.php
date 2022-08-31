@@ -70,7 +70,7 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="aboutdrc.php">HISTORY</a></li>
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
-              <li><a href="parteners.php">Parteners</a></li>
+              <li><a href="parteners.php">Partners</a></li>
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
               <li><a href="/website_drc_sis/documents/DRC SIS BROCHURE ENGLISH VERSION  AUGUST 2022.pdf">DOWLOADS/Brochure</a></li>
@@ -104,7 +104,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="row">
             <div class="col-lg-24">
               <div class="section-heading">
-                <h2>SPEAKERS</h2>
+                
               </div>
             </div>
             <div class="col-lg-12">

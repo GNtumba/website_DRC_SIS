@@ -298,7 +298,7 @@ header
   background-color: #165a95;
   position: relative;
   z-index: 1111;
-  padding-top: 1px;
+  padding-top: 6px;
 
 }
 
@@ -1614,7 +1614,7 @@ heading page
 */
 
 section.heading-page {
-  background-image: url(../images/6.jpeg);
+  background-image: url(../images/i1.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2141,8 +2141,8 @@ input[type=submit] {
   transition: all 0.3s ease-in-out;
   border-radius: 5px;
   z-index: 1;
-  height: 480px;
-  width: 380px;
+  height: 580px;
+  width: 480px;
 }
 
 .em {

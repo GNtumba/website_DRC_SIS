@@ -74,7 +74,7 @@ https://templatemo.com/tm-569-edu-meeting
                             <li><a href="aboutdrc.php">HISTORY</a></li>
                             <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
                             <li><a href="registerychoose.php">REGISTER</a></li>
-                            <li><a href="parteners.php">Parteners</a></li>
+                            <li><a href="parteners.php">Partners</a></li>
                             <li><a href="speakers.html">SPEAKERS</a></li>
                             <li><a href="#contact">Contact Us/DOWLOADS</a></li>
 

@@ -70,7 +70,7 @@ https://templatemo.com/tm-569-edu-meeting
               <li><a href="aboutdrc.php">HISTORY</a></li>
               <li><a href="sponsor.html">SPONSOR/EXHIBIT</a></li>
               <li><a href="registerychoose.php">REGISTER</a></li>
-              <li><a href="parteners.php">Parteners</a></li>
+              <li><a href="parteners.php">Partners</a></li>
               <li><a href="speakers.php">SPEAKERS</a></li>
               <li><a href="#contact">Contact Us</a></li>
               <li><a href="#">DOWLOADS/Brochure</a></li>
@@ -86,7 +86,7 @@ https://templatemo.com/tm-569-edu-meeting
   </header>
   <!-- ***** Header Area End ***** -->
 
-  <img src="assets/images/8.jpeg" alt=""><br><br>
+  <img src="assets/images/i2.jpeg" alt=""><br><br>
   <section class="upcoming-meetings" id="services">
     <div class="container">
       <div class="row">
@@ -101,7 +101,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
-                <img src="assets/images/academy 375.jpg" alt="New Lecturer Meeting">
+                <a href="agromwinda.html"><img src="assets/images/academy 375.jpg" alt="New Lecturer Meeting"></a>
               </div>
 
             </div>
@@ -109,7 +109,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
-                <a href="ist.html"><a href="ist.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a></a>
+                <a href="ist.html"><img src="assets/images/Tangaza.jpg" alt="Online Teaching"></a></a>
               </div>
 
             </div>
@@ -117,7 +117,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
-                <img src="assets/images/PADPMAE.jpeg" alt="Higher Education">
+                <a href="padpme.html"><img src="assets/images/PADPMAE.jpeg" alt="Higher Education"></a>
               </div>
 
             </div>
@@ -125,7 +125,7 @@ https://templatemo.com/tm-569-edu-meeting
           <div class="col-lg-3">
             <div class="meeting-item">
               <div class="thumb">
-                <img src="assets/images/PICAGEL LOGO.png" alt="Online Teaching">
+                <a href=""><img src="assets/images/PICAGEL LOGO.png" alt="Online Teaching"></a>
               </div>
 
             </div>
